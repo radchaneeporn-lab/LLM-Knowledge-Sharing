@@ -1,1 +1,11 @@
 **/venv
+**/.env
+**/__pycache__
+**/*.pyc
+.env
+
+# ignore incomplete file
+**/token_count_II.py
+3_Prompt_Caching
+4_Non-determistic_LLM_Respnse
+5_LLM_Window_Context
